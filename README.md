@@ -16,5 +16,5 @@ The dataset containing two tables, one for His Batting Career and the other for 
 
 1. Download Power BI Desktop application.
 2. Clone this repository.
-3. Open `Favourite_Cricket_Player.pbix` with Power BI.
+3. Open `Favourite Cricket Player.pbix` with Power BI.
 4. Interact with the dashboard.
